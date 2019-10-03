@@ -13,6 +13,7 @@
   "author": "haynes.cw@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^4.17.15",
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
   },
